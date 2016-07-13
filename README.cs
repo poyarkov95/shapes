@@ -10,6 +10,7 @@ namespace test
         static void main()
         {
             Console.WriteLine("test!!!");
+            Console.WriteLine("Hello summer school");
         }
     }
 }
